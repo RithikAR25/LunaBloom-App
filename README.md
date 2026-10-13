@@ -25,8 +25,6 @@
   <p>Seamless Light &amp; Dark theme support designed with calming aesthetics.</p>
 </div>
 
-### Seamless Light & Dark Mode Integration
-
 |                               Welcome &amp; Onboarding Light                                |                               Welcome &amp; Onboarding Dark                               |
 | :-----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 | <img src="./assets/MockUp/LandingScreenLight.png" width="220" alt="Landing Screen Light" /> | <img src="./assets/MockUp/LandingScreenDark.png" width="220" alt="Landing Screen Dark" /> |
