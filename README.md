@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RithikAR25/LunaBloom/main/assets/icon.png" width="100" height="100" alt="LunaBloom Logo" style="border-radius: 20px;" />
+﻿<div align="center">
+  <img src="assets/icon.png" width="100" height="100" alt="LunaBloom Logo" style="border-radius: 20px;" />
   <h1>LunaBloom</h1>
   <p><strong>A private, offline-first menstrual cycle & wellness tracker for Android.</strong></p>
 
@@ -19,23 +19,23 @@
 
 ---
 
-## 🌸 Why LunaBloom?
+## ðŸŒ¸ Why LunaBloom?
 
 Most health tracking apps store your intimate data on centralized cloud servers, monetizing your private records or exposing them to data leaks.
 
 **LunaBloom is built differently:**
-* 🔒 **100% Offline-First**: All your data lives strictly on your phone in an encrypted local database.
-* 🚫 **Zero Cloud Tracking**: No accounts, no logins, no third-party tracking pixels, and no ads.
-* ⚡ **Instant & Fluid**: Blazing-fast performance with zero loading spinners or network latency.
-* 🎨 **Thoughtful Design**: Native dynamic light and dark modes with calming aesthetics and smooth micro-interactions.
-* 🛡️ **App Lock**: Protect your data on-device with Biometric (Fingerprint/Face) and PIN lock.
+* ðŸ”’ **100% Offline-First**: All your data lives strictly on your phone in an encrypted local database.
+* ðŸš« **Zero Cloud Tracking**: No accounts, no logins, no third-party tracking pixels, and no ads.
+* âš¡ **Instant & Fluid**: Blazing-fast performance with zero loading spinners or network latency.
+* ðŸŽ¨ **Thoughtful Design**: Native dynamic light and dark modes with calming aesthetics and smooth micro-interactions.
+* ðŸ›¡ï¸ **App Lock**: Protect your data on-device with Biometric (Fingerprint/Face) and PIN lock.
 
 ---
 
-## 📥 Download & Installation
+## ðŸ“¥ Download & Installation
 
 ### Latest Release
-👉 **[Download the Latest APK (v1.0.0)](https://github.com/RithikAR25/LunaBloom-App/releases/latest)**
+ðŸ‘‰ **[Download the Latest APK (v1.0.0)](https://github.com/RithikAR25/LunaBloom-App/releases/latest)**
 
 ---
 
@@ -53,7 +53,7 @@ Most health tracking apps store your intimate data on centralized cloud servers,
 
 ---
 
-## ✨ Features at a Glance
+## âœ¨ Features at a Glance
 
 * **Cycle & Ovulation Prediction**: Adaptive mathematical models that learn from your cycle lengths and variances.
 * **Daily Health Logging**: Log menstrual flow intensity, physical symptoms, mood fluctuations, sleep quality, and energy levels.
@@ -64,7 +64,7 @@ Most health tracking apps store your intimate data on centralized cloud servers,
 
 ---
 
-## 🔒 Privacy Guarantee
+## ðŸ”’ Privacy Guarantee
 
 LunaBloom does not collect, transmit, or share any personal health information (PHI). 
 
@@ -74,7 +74,7 @@ LunaBloom does not collect, transmit, or share any personal health information (
 
 ---
 
-## 🐛 Feedback & Bug Reports
+## ðŸ› Feedback & Bug Reports
 
 Found an issue or have a suggestion?
 Please open an issue on the [Issues Tab](https://github.com/RithikAR25/LunaBloom-App/issues).
@@ -84,3 +84,4 @@ Please open an issue on the [Issues Tab](https://github.com/RithikAR25/LunaBloom
 <p align="center">
   <i>Engineered with care by Rithik Ramachandran</i>
 </p>
+
