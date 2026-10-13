@@ -25,40 +25,30 @@
   <p>Seamless Light &amp; Dark theme support designed with calming aesthetics.</p>
 </div>
 
-### Welcome &amp; Onboarding
+### Seamless Light & Dark Mode Integration
 
-| Light | Dark |
-| :---: | :---: |
+|                               Welcome &amp; Onboarding Light                                |                               Welcome &amp; Onboarding Dark                               |
+| :-----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
 | <img src="./assets/MockUp/LandingScreenLight.png" width="220" alt="Landing Screen Light" /> | <img src="./assets/MockUp/LandingScreenDark.png" width="220" alt="Landing Screen Dark" /> |
 
-### Home Dashboard
-
-| Light | Dark |
-| :---: | :---: |
+|                                Home Dashboard Light                                |                               Home Dashboard Dark                                |
+| :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | <img src="./assets/MockUp/HomeLight.png" width="220" alt="Home Dashboard Light" /> | <img src="./assets/MockUp/HomeDark.png" width="220" alt="Home Dashboard Dark" /> |
 
-### Interactive Calendar
-
-| Light | Dark |
-| :---: | :---: |
+|                            Interactive Calendar Light                            |                           Interactive Calendar Dark                            |
+| :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 | <img src="./assets/MockUp/CalendarLight.png" width="220" alt="Calendar Light" /> | <img src="./assets/MockUp/CalendarDark.png" width="220" alt="Calendar Dark" /> |
 
-### Cycle Editing
-
-| Light | Dark |
-| :---: | :---: |
+|                              Cycle Editing Light                               |                              Cycle Editing Dark                              |
+| :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | <img src="./assets/MockUp/EditLight.png" width="220" alt="Edit Cycle Light" /> | <img src="./assets/MockUp/EditDark.png" width="220" alt="Edit Cycle Dark" /> |
 
-### Insights &amp; Analytics
-
-| Light | Dark |
-| :---: | :---: |
+|                         Insights &amp; Analytics Light                          |                         Insights &amp; Analytics Dark                         |
+| :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
 | <img src="./assets/MockUp/InsightLight.png" width="220" alt="Insights Light" /> | <img src="./assets/MockUp/InsightDark.png" width="220" alt="Insights Dark" /> |
 
-### Settings
-
-| Light | Dark |
-| :---: | :---: |
+|                                  Settings Light                                  |                                 Settings Dark                                  |
+| :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 | <img src="./assets/MockUp/SettingsLight.png" width="220" alt="Settings Light" /> | <img src="./assets/MockUp/SettingsDark.png" width="220" alt="Settings Dark" /> |
 
 ---
