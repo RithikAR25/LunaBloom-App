@@ -19,38 +19,6 @@
 
 ---
 
-## 📱 Application Preview
-
-<div align="center">
-  <p>Seamless Light &amp; Dark theme support designed with calming aesthetics.</p>
-</div>
-
-|                               Welcome &amp; Onboarding Light                                |                               Welcome &amp; Onboarding Dark                               |
-| :-----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
-| <img src="./assets/MockUp/LandingScreenLight.png" width="220" alt="Landing Screen Light" /> | <img src="./assets/MockUp/LandingScreenDark.png" width="220" alt="Landing Screen Dark" /> |
-
-|                                Home Dashboard Light                                |                               Home Dashboard Dark                                |
-| :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-| <img src="./assets/MockUp/HomeLight.png" width="220" alt="Home Dashboard Light" /> | <img src="./assets/MockUp/HomeDark.png" width="220" alt="Home Dashboard Dark" /> |
-
-|                            Interactive Calendar Light                            |                           Interactive Calendar Dark                            |
-| :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| <img src="./assets/MockUp/CalendarLight.png" width="220" alt="Calendar Light" /> | <img src="./assets/MockUp/CalendarDark.png" width="220" alt="Calendar Dark" /> |
-
-|                              Cycle Editing Light                               |                              Cycle Editing Dark                              |
-| :----------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-| <img src="./assets/MockUp/EditLight.png" width="220" alt="Edit Cycle Light" /> | <img src="./assets/MockUp/EditDark.png" width="220" alt="Edit Cycle Dark" /> |
-
-|                         Insights &amp; Analytics Light                          |                         Insights &amp; Analytics Dark                         |
-| :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| <img src="./assets/MockUp/InsightLight.png" width="220" alt="Insights Light" /> | <img src="./assets/MockUp/InsightDark.png" width="220" alt="Insights Dark" /> |
-
-|                                  Settings Light                                  |                                 Settings Dark                                  |
-| :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| <img src="./assets/MockUp/SettingsLight.png" width="220" alt="Settings Light" /> | <img src="./assets/MockUp/SettingsDark.png" width="220" alt="Settings Dark" /> |
-
----
-
 ## 🌸 Why LunaBloom?
 
 Most health tracking apps store your intimate data on centralized cloud servers, monetizing your private records or exposing them to data leaks.
@@ -59,13 +27,13 @@ Most health tracking apps store your intimate data on centralized cloud servers,
 
 - 🔒 **100% Offline-First**: All your data lives strictly on your phone in an encrypted local database.
 - 🚫 **Zero Cloud Tracking**: No accounts, no logins, no third-party tracking pixels, and no ads.
-- ⚡ **Instant &amp; Fluid**: Blazing-fast performance with zero loading spinners or network latency.
+- ⚡ **Instant & Fluid**: Blazing-fast performance with zero loading spinners or network latency.
 - 🎨 **Thoughtful Design**: Native dynamic light and dark modes with calming aesthetics and smooth micro-interactions.
 - 🛡️ **App Lock**: Protect your data on-device with Biometric (Fingerprint/Face) and PIN lock.
 
 ---
 
-## 📥 Download &amp; Installation
+## 📥 Download & Installation
 
 ### Latest Release
 
@@ -80,19 +48,39 @@ Most health tracking apps store your intimate data on centralized cloud servers,
    - If Android displays a prompt saying _"File might be harmful"_ or _"For your security, your phone is not allowed to install unknown apps"_, tap **Settings** on the prompt.
    - Toggle on **"Allow from this source"**.
    - _(Note: This standard Android security prompt appears for any app downloaded outside the Google Play Store)._
-3. **Install &amp; Launch**: Tap **Install**. Once finished, open **LunaBloom** and enjoy!
+3. **Install & Launch**: Tap **Install**. Once finished, open **LunaBloom** and enjoy!
 
 > [!TIP]
 > **Updating the App**: When a new version is released, simply download the new APK and install it over the existing one. Your logged health data and cycles will remain intact.
 
 ---
 
+## 📱 Application Preview
+
+<div align="center">
+  <p>Seamless Light &amp; Dark theme support designed with calming aesthetics.</p>
+</div>
+
+| Welcome (Light) | Welcome (Dark) | Home (Light) | Home (Dark) |
+| :---: | :---: | :---: | :---: |
+| <img src="./assets/MockUp/LandingScreenLight.png" width="160" alt="Landing Screen Light" /> | <img src="./assets/MockUp/LandingScreenDark.png" width="160" alt="Landing Screen Dark" /> | <img src="./assets/MockUp/HomeLight.png" width="160" alt="Home Dashboard Light" /> | <img src="./assets/MockUp/HomeDark.png" width="160" alt="Home Dashboard Dark" /> |
+
+| Calendar (Light) | Calendar (Dark) | Cycle Editing (Light) | Cycle Editing (Dark) |
+| :---: | :---: | :---: | :---: |
+| <img src="./assets/MockUp/CalendarLight.png" width="160" alt="Calendar Light" /> | <img src="./assets/MockUp/CalendarDark.png" width="160" alt="Calendar Dark" /> | <img src="./assets/MockUp/EditLight.png" width="160" alt="Edit Cycle Light" /> | <img src="./assets/MockUp/EditDark.png" width="160" alt="Edit Cycle Dark" /> |
+
+| Insights (Light) | Insights (Dark) | Settings (Light) | Settings (Dark) |
+| :---: | :---: | :---: | :---: |
+| <img src="./assets/MockUp/InsightLight.png" width="160" alt="Insights Light" /> | <img src="./assets/MockUp/InsightDark.png" width="160" alt="Insights Dark" /> | <img src="./assets/MockUp/SettingsLight.png" width="160" alt="Settings Light" /> | <img src="./assets/MockUp/SettingsDark.png" width="160" alt="Settings Dark" /> |
+
+---
+
 ## ✨ Features at a Glance
 
-- **Cycle &amp; Ovulation Prediction**: Adaptive mathematical models that learn from your cycle lengths and variances.
+- **Cycle & Ovulation Prediction**: Adaptive mathematical models that learn from your cycle lengths and variances.
 - **Daily Health Logging**: Log menstrual flow intensity, physical symptoms, mood fluctuations, sleep quality, and energy levels.
 - **Interactive Calendar**: Visual phase mapping showing upcoming fertile windows, predicted periods, and past cycles.
-- **Trends &amp; Insights**: Visualize symptom patterns across cycle phases over time to better understand your body.
+- **Trends & Insights**: Visualize symptom patterns across cycle phases over time to better understand your body.
 - **Educational Modules**: Built-in, offline health and hormonal guides.
 - **Full Data Control**: Back up your database or permanently purge your records anytime in Settings.
 
@@ -108,7 +96,7 @@ LunaBloom does not collect, transmit, or share any personal health information (
 
 ---
 
-## 🐛 Feedback &amp; Bug Reports
+## 🐛 Feedback & Bug Reports
 
 Found an issue or have a suggestion?
 Please open an issue on the [Issues Tab](https://github.com/RithikAR25/LunaBloom-App/issues).
