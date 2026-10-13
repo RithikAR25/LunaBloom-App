@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://raw.githubusercontent.com/RithikAR25/LunaBloom-App/main/assets/icon.png" width="100" height="100" alt="LunaBloom Logo" style="border-radius: 20px;" />
+  <img src="https://github.com/RithikAR25/LunaBloom-App/blob/main/assets/icon.png" width="100" height="100" alt="LunaBloom Logo" style="border-radius: 20px;" />
   <h1>LunaBloom</h1>
   <p><strong>A private, offline-first menstrual cycle & wellness tracker for Android.</strong></p>
 
