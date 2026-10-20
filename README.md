@@ -37,7 +37,7 @@ Most health tracking apps store your intimate data on centralized cloud servers,
 
 ### Latest Release
 
-👉 **[Download the Latest APK (v1.0.0)](https://github.com/RithikAR25/LunaBloom-App/releases/latest)**
+👉 **[Download the Latest APK (v1.1.0)](https://github.com/RithikAR25/LunaBloom-App/releases/latest)**
 
 ---
 
