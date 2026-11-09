@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Version-v1.1.3-blue.svg" alt="Version 1.1.3" />
+    <img src="https://img.shields.io/badge/Version-v1.2.0-blue.svg" alt="Version 1.2.0" />
     <img src="https://img.shields.io/badge/Platform-Android_8.0+-green.svg" alt="Android 8.0+" />
     <img src="https://img.shields.io/badge/Privacy-100%25_Offline-success.svg" alt="Offline-First" />
     <img src="https://img.shields.io/badge/Tracking-Zero_Ads_or_Telemetry-purple.svg" alt="No Telemetry" />
@@ -37,7 +37,7 @@ Most health tracking apps store your intimate data on centralized cloud servers,
 
 ### Latest Release
 
-👉 **[Download the Latest APK (v1.1.3)](https://github.com/RithikAR25/LunaBloom-App/releases/latest)**
+👉 **[Download the Latest APK (v1.2.0)](https://github.com/RithikAR25/LunaBloom-App/releases/latest)**
 
 ---
 
